@@ -2,4 +2,4 @@
 
 Content Management Tool
 
-Helps to create blog content of images, video
+Helps to create blog content of images, videos
